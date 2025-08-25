@@ -1,6 +1,7 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
+I am going to use this repository to store all of my crochet patterns, works in progress, and tips/helpful guides I need to refer back to.  
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
