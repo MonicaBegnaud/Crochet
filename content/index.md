@@ -4,11 +4,11 @@ title: Crochet Vault
 I am going to use this repository to store all of my crochet patterns, works in progress, and tips/helpful guides I need to refer back to.  
 
 ## Main Categories
-* [[hook-sizes-gauges/index|Hook Sizes and finding Gauge]]
-* [[patterns/index|Patterns for current works in progress (WIP) and future projects]]
-* [[stitches/index|A comprehensive lists of crochet stitches]]
-* [[techniques/index|Different types of crochet techniques]]
-* [[yarn-types-weights/index|Yarn weights and different fiber types]]
+* [[hook-sizes-gauges/index|Hook Sizes]]
+* [[patterns/index|Crochet Patterns]]
+* [[stitches/index|Crochet Stitches]]
+* [[techniques/index|Crochet Techniques]]
+* [[yarn-types-weights/index|Yarn Weights and Fibers]]
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.

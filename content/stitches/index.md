@@ -1,5 +1,5 @@
 ---
-title: A comprehensive lists of crochet stitches
+title: Crochet Stitches
 ---
 This is an example doc. Docs are Markdown files inside the `content/` directory.
 

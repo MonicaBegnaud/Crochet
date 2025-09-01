@@ -1,3 +1,3 @@
 ---
-title: Yarn weights and different fiber types
+title: Yarn Weights and Fibers
 ---

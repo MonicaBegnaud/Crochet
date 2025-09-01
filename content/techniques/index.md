@@ -1,3 +1,3 @@
 ---
-title: Different types of crochet techniques
+title: Crochet Techniques
 ---

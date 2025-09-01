@@ -1,5 +1,5 @@
 ---
-title: Hook Sizes and finding Gauge
+title: Hook Sizes
 ---
 This is an example doc. Docs are Markdown files inside the `content/` directory.
 
