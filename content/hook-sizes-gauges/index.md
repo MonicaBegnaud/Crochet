@@ -1,7 +1,8 @@
 ---
 title: Hook Sizes
 ---
-This is an example doc. Docs are Markdown files inside the `content/` directory.
+## Related Categories
+The type and size hook you will need for your project will depend on the [[techniques|technique]] you are using. 
 
 ---
 
