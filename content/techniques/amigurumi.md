@@ -7,4 +7,4 @@ The primary [[stitches/index|stitch]] used a single crochet, which is one of the
 #### How big can I make my plushie?
 The overall size of your plushie will depend on [[hook-sizes-gauges/index|the size of the hook]] you choose to use. Most patterns will be written using a smaller hook, leading to small tight stitches.  But you can use whatever size hook you prefer and create giant life-sized plushies if that's what your goal is. 
 
-![Bunny I made]()
+![Bunny I made](bunny.jpg)
