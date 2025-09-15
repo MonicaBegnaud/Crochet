@@ -1,4 +1,4 @@
-### What is Granny Square Crochet?
+## What is Granny Square Crochet?
 A granny square is a repeating design that is worked outward from the center in rounds that once complete will create a square shape. 
 
 ### What stitches do I need to know?
