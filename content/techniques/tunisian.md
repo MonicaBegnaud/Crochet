@@ -6,9 +6,9 @@ Tunisian stitches are completely different from your normal crochet stitches.  I
 >Some examples are
 >* Tunisian Simple Stitch
 >* Tunisian Knit Stitch 
->* Tunisian Purl Stitch ( that one doesn't even pretend it's not knitting)
+>* Tunisian Purl Stitch (that one doesn't even pretend it's not knitting)
 
-## Differences from normal crochet
+#### Differences from normal crochet
 Aside from the specialized hook needed for Tunisian, another difference is the actual method of stitching. For Tunisian each row involves two parts. 
 
 1. The initial forward pass, where you pick up however many loops your pattern calls for a hold them on your hook.
