@@ -5,6 +5,10 @@ title: Crochet Patterns
 
 [Circular Mandala](assets/mandala.pdf)
 
-![My Completed Mandala](assets/mandala.jpg)
+![My Completed Mandala](mandala.jpg)
+
+
+
+![[bunny.jpg]]
 
 
