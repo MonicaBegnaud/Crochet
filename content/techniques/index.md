@@ -4,7 +4,7 @@ title: Crochet Techniques
 # Related Categories
 What type of crochet technique you use will dictate what [[hook-sizes-gauges/index|hook size]] you are going to need. 
 
-#Some different Crochet techniques are
+# Some different Crochet techniques are
 
 1. [[amigurumi]]
 2. [[corner-to-corner]]
