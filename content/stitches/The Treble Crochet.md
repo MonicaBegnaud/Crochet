@@ -16,5 +16,4 @@ In a pattern diagram it will be represented by a T with two lines through it.
 
 
 
-
-Return to Stitches [[stitches/index|index]]
+Return to [[stitches/index|Stitches]] 

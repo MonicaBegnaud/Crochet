@@ -16,4 +16,4 @@ In a pattern diagram it will be represented by a solid dot.
 
 ![[throw blanket.jpg]]
 
-Return to Stitches [[stitches/index|index]]
+Return to [[stitches/index|Stitches]]

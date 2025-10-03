@@ -13,3 +13,6 @@ I want it to be easy to follow but also fun and informative.
 - Information about the different types of stitches and how they are represented in a pattern.
 - The different styles or techniques that can all be called crochet even though they have different approaches. 
 - Talk about different types and weights of yarns for different project uses. 
+
+
+Return [[index|Home]]  

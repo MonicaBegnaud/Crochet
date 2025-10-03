@@ -14,5 +14,5 @@ I would also like to make a set of these potholders. We have several crochet pot
 ![[potholder.JPG]]
 
 
-
+Return to [[patterns/index|Patterns]]
 

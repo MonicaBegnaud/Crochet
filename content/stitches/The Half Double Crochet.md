@@ -17,4 +17,4 @@ In a pattern diagram it will be represented by an elongated T.
 
 
 
-Return to Stitches [[stitches/index|index]]
+Return to [[stitches/index|Stitches]] 

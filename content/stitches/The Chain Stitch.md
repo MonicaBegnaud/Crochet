@@ -15,5 +15,5 @@ In a pattern diagram it will be represented by an oval shape.
 It is called a china stitch because when you have chained the number of stitches the pattern asked for it will look like a simple chain necklace.
 
 
-Return to Stitches [[stitches/index|index]]
+Return to [[stitches/index|Stitches]]
 

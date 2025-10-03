@@ -15,4 +15,4 @@ In a pattern diagram it will be represented by a T with a single line through it
 ![[double.JPG]]
 
 
-Return to Stitches [[stitches/index|index]]
+Return to [[stitches/index|Stitches]] 

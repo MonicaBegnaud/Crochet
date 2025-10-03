@@ -18,3 +18,5 @@ What type of crochet technique you use will dictate what [[hook-sizes-gauges/ind
 5. [[tunisian]]
 
 But of course this is not all the different techniques out there. 
+
+Return [[index|Home]]  

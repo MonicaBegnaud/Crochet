@@ -15,3 +15,5 @@ There are an endless number of different crochet stitches. The same stitch could
  6. [[The Treble Crochet]] 
 
 ![[stitch-key.JPG]]
+
+Return [[index|Home]]  

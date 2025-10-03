@@ -11,7 +11,9 @@ So you've chosen your project, but now how do you know which yarn to buy? The cr
 Looking at your [[patterns/index|pattern]] is a good place to start. At a minimum it will tell you what weight yarn you should use, but in some cases it will tell you the exact brand and colors if you want the end result to be exactly the same as the pattern original. 
 
 Many brands of yarn will publish their own patterns as a way to try and get you to buy their yarn. They will give examples of what you could make with just one skein. 
-
 # Next Steps
 1. [[Yarn Fibers|Choosing your fiber]]
 2. [[Yarn Weights|What yarn weight do you need]]
+
+
+Return [[index|Home]]  

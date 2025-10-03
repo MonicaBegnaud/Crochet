@@ -22,3 +22,4 @@ Similar to the mandala but practicing with making corners similar to a [[granny 
 
 ![[throw blanket.jpg]]
 
+Return to [[patterns/index|Patterns]]
