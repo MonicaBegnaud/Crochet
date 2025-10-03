@@ -7,7 +7,7 @@ There are several different formats you can find crochet patterns in.
 - Example: Round 1 (right side): Ch 4 (counts as dc, ch 1), dc in ring, [ch 1, dc in ring] 10 times, ch 1; join with slip st in 3rd ch of beginning ch-4—12 dc and 12 ch-1 spaces
 
 2. A picture pattern: this will have very minimal words and can be either a full example of the completed work or for larger patterns will show you just a section that you will repeat x number of times. 
-              ![[pattern.jpg]] 
+  ![[pattern.jpg]] 
 3. Videos: an increasing number of people are using streaming platforms such as youtube or TikTok to record themselves as they work through a project and you follow along as they go. 
 
 # What Type of Pattern is Best?
