@@ -8,6 +8,7 @@ There are several different formats you can find crochet patterns in.
 
 2. A picture pattern: this will have very minimal words and can be either a full example of the completed work or for larger patterns will show you just a section that you will repeat x number of times. 
   ![[pattern.jpg]] 
+
 3. Videos: an increasing number of people are using streaming platforms such as youtube or TikTok to record themselves as they work through a project and you follow along as they go. 
 
 # What Type of Pattern is Best?

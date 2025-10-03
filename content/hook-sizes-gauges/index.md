@@ -6,4 +6,3 @@ The type and size hook you will need for your project will depend on the [[techn
 
 ---
 
-Return to the [[hook-sizes-gauges/index]]

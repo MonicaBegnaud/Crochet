@@ -9,7 +9,7 @@ One of the things I would really like to make time for this year is making my fa
 
 I would also like to make a set of these potholders. We have several crochet potholders made by my mother in law and they seem to hold up better than more of the plain fabric ones. Also this pattern has three different layers of yarn that build up so I think it would be a challenging pattern to work through. Along with being able to make a set of all our favorite pies. 
 
-[Pie Potholder](asset/potsholder.pdf)
+[Pie Potholder](assets/potholder.pdf)
 ![[potholder.JPG]]
 
 
