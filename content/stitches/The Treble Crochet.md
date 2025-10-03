@@ -1,0 +1,6 @@
+---
+title: The Treble Crochet
+---
+
+## The Treble Crochet (tr)
+This stitch can also be referred to as the triple crochet, the two names are used interchangeably. Just like the previous stitches the name refers to how many times your are going to pull the yarn through the loop on your hook. Your are going to yarn over until you have four loops on your hook, pull through the first two like you would for the double, and then yarn over and pull through two loops a total of two more times.
