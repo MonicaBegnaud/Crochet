@@ -14,7 +14,7 @@ My first big project. It was part of a CAL that worked up over about 4 weeks. I 
 
 This was the very first pattern I ever learned. It took me weeks to figure out the first row. The instructions and just crochet in general was not making sense, it finally clicked out day at 2 in the morning and the blanket was finished that same day. It was given as a baby shower gift for a co-workers first child after holding onto it for almost 4 years.
 
-![[blanket.jpg]]
+![[blanket.JPG]]
 
 [Throw Blanket](assets/blanket.pdf)
 
