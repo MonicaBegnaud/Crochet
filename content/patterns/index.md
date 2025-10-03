@@ -17,7 +17,7 @@ That depends on each individual crafter. People who are bran new to crochet some
 
 But other people are visual learns and having something where you can mark off each step as you go helps them stay on track.
 
-There are several creators who do what are called crochet alongs (CAL). A pattern will be selected and released, then each week a certain amount of rows will be done for the pattern. There will be videos instructions more focused on that week's portion instead of the whole pattern and you work along with the whole group doing the same pattern. 
+There are several creators who do what are called a crochet along (CAL). A pattern will be selected and released, then each week a certain amount of rows will be done for the pattern. There will be videos instructions more focused on that week's portion instead of the whole pattern and you work along with the whole group doing the same pattern. 
 # Can I Make Up My Own Pattern?
 Of course! If you can't find a pattern you like for a particular project then there is nothing stopping it from creating your own. Once you have have any understanding of the [[stitches/index|different stitches]] you can start experimenting with different [[techniques/index|techniques]] until you find something that give you the look that you want. 
 
