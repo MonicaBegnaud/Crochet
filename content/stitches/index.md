@@ -1,5 +1,6 @@
 ---
 title: Crochet Stitches
+date: 2025-10-01
 ---
 
 # How Many Stitches?

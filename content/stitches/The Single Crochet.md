@@ -1,5 +1,6 @@
 ---
 title: The Single Crochet
+date: 2025-10-01
 ---
 
 ## The Single Crochet 

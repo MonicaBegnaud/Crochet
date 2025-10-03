@@ -1,5 +1,6 @@
 ---
 title: Crochet Vault
+date: 2025-10-01
 ---
 I am going to use this repository to store all of my crochet patterns, works in progress, and tips/helpful guides I need to refer back to.  
 

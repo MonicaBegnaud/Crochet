@@ -1,5 +1,6 @@
 ---
 title: Completed Patterns
+date: 2025-10-01
 ---
 ## Patterns I've done
 

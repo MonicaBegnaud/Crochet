@@ -1,3 +1,7 @@
+---
+title: C2C
+date: 2025-10-01
+---
 ## What is Corner-to-Corner?
 As the name would suggest, for this type of crochet you will start at one corner of the pattern and make diagonal rows across to the opposite corner.  The end result will look verify similar to a cross stitch pattern, where your design is made up of different color blocks. 
 

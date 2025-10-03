@@ -1,5 +1,6 @@
 ---
 title: Crochet Patterns
+date: 2025-10-01
 ---
 # What is a Crochet Pattern
 There are several different formats you can find crochet patterns in. 

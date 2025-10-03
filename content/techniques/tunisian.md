@@ -1,3 +1,7 @@
+---
+title: Tunisian
+date: 2025-10-01
+---
 ## What is Tunisian Crochet?
 Tunisian crochet is a kind of mix between normal crochet and knitting. Instead of your standard [[hook-sizes-gauges/index|crochet hook]] you instead use a very long hook that can hold many loops at a time. Your normal crochet will generally only have one stitch at a time. The end result of a Tunisian project will also be thicker, so many people like it for things like blankets and sweaters. 
 

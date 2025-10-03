@@ -1,5 +1,6 @@
 ---
 title: The Double Crochet
+date: 2025-10-01
 ---
 
 ## The Double Crochet 

@@ -1,5 +1,6 @@
 ---
 title: The Slip Stitch
+date: 2025-10-01
 ---
 
 ## The Slip Stitch

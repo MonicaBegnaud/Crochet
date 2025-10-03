@@ -1,5 +1,6 @@
 ---
 title: The Chain Stitch
+date: 2025-10-01
 ---
 
 ## The Chain Stitch 

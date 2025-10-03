@@ -1,5 +1,6 @@
 ---
 title: The Treble Crochet
+date: 2025-10-01
 ---
 
 ## The Treble Crochet
