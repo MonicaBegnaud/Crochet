@@ -10,6 +10,7 @@ There are 8 different weights. and they will be labeled on the skein wrapper, us
 
 # How Do You Choose a Weight?
 As I mentioned the best place to start when choosing your yarn is by looking at your pattern, in the beginning introduction section there will be a material list. 
+
 ![[materials.JPG]]
 
 Now of course your are not required to follow this to the letter. If you want to take the pattern for a plushie that uses a 3 or 4 weight yarn and follow the pattern directions with a jumbo yarn there is nothing stopping you. Just be aware that you will need substantially more yarn and that it could come out a lot bigger than you expect... 
