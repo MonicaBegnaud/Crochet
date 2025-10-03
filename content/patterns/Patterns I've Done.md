@@ -2,7 +2,7 @@
 title: Completed Patterns
 date: 2025-10-01
 ---
-## Patterns I've done
+# Patterns I've done
 
 [Circular Mandala](assets/mandala.pdf)
 

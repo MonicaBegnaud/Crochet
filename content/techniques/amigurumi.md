@@ -2,7 +2,7 @@
 title: Amigurumi
 date: 2025-10-01
 ---
-## What is Amigurumi?
+# What is Amigurumi?
 Amigurumi is a Japanese style of crochet where you are typically creating a small plushie or 3D object.  Once you get toward the end of your amigurumi pattern you are going to fill/stuff the inside before finishing it off. 
 
 ### What [[stitches/index|stitches]] do I need to know?
