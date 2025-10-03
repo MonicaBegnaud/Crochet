@@ -3,3 +3,5 @@ Tapestry is very similar to both Corner-to-Corner and just your traditional croc
 
 ### What stitches do I need to know?
 You will primarily be using [[stitches/index|single crochets]] but the difference is you will be switching between  several different colors of yarn as you work. You can either carry your colors across the rows, weaving in the unused color, or you can cut your yarn into smaller balls for each section. But then if you're anything like me you'll finish the project and never go back and hide your ends. A dangerous game that can lead to all your hard work coming unraveled with a single pull. 
+
+Return to Techniques [[techniques/index|index]]

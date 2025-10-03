@@ -6,3 +6,5 @@ Each square of your pattern will be made up of chains and [[stitches/index|doubl
 
 #### How big can I make my project
 The great thing about corner-to-corner is you can make your project as big or small as you want. You could design a very intricate picture and make it the size of a blanket. Or have it be very simplistic and the size of a small pillow or wall hanging. 
+
+Return to Techniques [[techniques/index|index]]

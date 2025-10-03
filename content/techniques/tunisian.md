@@ -13,3 +13,5 @@ Aside from the specialized hook needed for Tunisian, another difference is the a
 
 1. The initial forward pass, where you pick up however many loops your pattern calls for a hold them on your hook.
 2. The "return" pass, where you go back and close each loop letting it off of your hook. 
+
+Return to Techniques [[techniques/index|index]]

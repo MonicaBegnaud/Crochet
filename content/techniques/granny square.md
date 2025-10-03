@@ -13,3 +13,5 @@ A granny square is one of the more common bases of a all kinds of projects due t
 
 #### Are all granny squares the same?
 No! While they follow basic guideline with a repeating pattern there are all sorts of adaptations to the basic granny square. I have made ones with a moon as the center, and there is one I would personally like to try that has a skull in the center. 
+
+Return to Techniques [[techniques/index|index]]
