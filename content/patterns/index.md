@@ -12,9 +12,10 @@ An example of written instructions:
 Round 1 (right side): Ch 4 (counts as dc, ch 1), dc in ring, (ch 1, dc in ring) 10 times, ch 1; join with slip st in 3rd ch of beginning ch-4—12 dc and 12 ch-1 spaces
 
 An example of a pattern diagram
+
 ![[pattern.JPG]]
 # What Type of Pattern is Best?
-That depends on each individual crafter. People who are bran new to crochet sometimes find watching video explanations easier because the content creator will usually be narrating and adding helpful tips as they go along. Someone just starting out might also not be familiar with all of the abbreviations or how to read a visual pattern yet.  
+That depends on each individual crafter. People who are brand new to crochet sometimes find watching video explanations easier because the content creator will usually be narrating and adding helpful tips as they go along. Someone just starting out might also not be familiar with all of the abbreviations or how to read a visual pattern yet.  
 
 But other people are visual learns and having something where you can mark off each step as you go helps them stay on track.
 
